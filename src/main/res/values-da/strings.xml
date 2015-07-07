@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="filter_adult">Voksenindhold upassende for børn</string>
+    <string name="filter_uncategorized">Uden for kategori</string>
+    <string name="filter_chat_sms">Chat/SMS/meddelelser/webmail</string>
+    <string name="filter_social_networking">Sociale netværk</string>
+    <string name="filter_business">Økonomi/Erhverv</string>
+    <string name="filter_sex_education">Seksualundervisning og graviditet</string>
+    <string name="filter_entertainement">Underholdning og kendte</string>
+    <string name="filter_streaming">Onlineindhold og streaming</string>
+    <string name="filter_health">Sundhed</string>
+    <string name="filter_sports">Sport</string>
+    <string name="filter_religion">Religion</string>
+    <string name="filter_online_shopping">Onlineshopping</string>
+    <string name="filter_search_engines">Portal og søgemaskiner</string>
+    <string name="filter_misc">Diverse/andet</string>
+    <string name="filter_online_ads">Onlineannoncer</string>
+    <string name="time_format_hour">%1$sh</string>
+    <string name="time_format_hour_minute">%1$sh%2$s</string>
+</resources>

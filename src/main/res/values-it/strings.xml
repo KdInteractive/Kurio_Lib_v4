@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="filter_adult">Contenuto per adulti non adatto ai bambini</string>
+    <string name="filter_uncategorized">Senza categoria</string>
+    <string name="filter_chat_sms">Chat / SMS / Messaggi / Email</string>
+    <string name="filter_social_networking">Social network</string>
+    <string name="filter_business">Affari / Attività commerciali</string>
+    <string name="filter_sex_education">Educazione sessuale e gravidanza</string>
+    <string name="filter_entertainement">Svago e gossip</string>
+    <string name="filter_streaming">Contenuti online e streaming</string>
+    <string name="filter_health">Salute</string>
+    <string name="filter_sports">Sport</string>
+    <string name="filter_religion">Religione</string>
+    <string name="filter_online_shopping">Acquisti online</string>
+    <string name="filter_search_engines">Portali e motori di ricerca</string>
+    <string name="filter_misc">Varie / Altro</string>
+    <string name="filter_online_ads">Annunci online</string>
+    <string name="time_format_hour">%1$sh</string>
+    <string name="time_format_hour_minute">%1$sh%2$s</string>
+</resources>

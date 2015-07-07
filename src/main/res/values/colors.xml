@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="shadow">#FF222222</color>
+    <color name="shadow_light">#FF333333</color>
+    <color name="disabled_screen">#66333333</color>
+    <color name="grey">#FF95a5a5</color>
+    <color name="kurio_orange">#e6ae5d</color>
+    <color name="kurio_blue">#00a4e4</color>
+    <color name="darker_blue">#006d98</color>
+
+</resources>

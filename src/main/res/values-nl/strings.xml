@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">OK</string>
+    <string name="filter_adult">Volwassenen inhoud ongeschikt voor kinderen</string>
+    <string name="filter_uncategorized">Geen categorie</string>
+    <string name="filter_chat_sms">Chat / SMS / Berichten / Webmail</string>
+    <string name="filter_social_networking">Sociale netwerken</string>
+    <string name="filter_business">Zakelijk / Commerciële activiteiten</string>
+    <string name="filter_sex_education">Seksuele voorlichting en zwangerschap</string>
+    <string name="filter_entertainement">Entertainment en gossip</string>
+    <string name="filter_streaming">Online content en streamen</string>
+    <string name="filter_health">Gezondheid</string>
+    <string name="filter_sports">Sport</string>
+    <string name="filter_religion">Religie</string>
+    <string name="filter_online_shopping">Online winkelen</string>
+    <string name="filter_search_engines">Portaal en zoekmachines</string>
+    <string name="filter_misc">Overig</string>
+    <string name="filter_online_ads">Online advertenties</string>
+    <string name="time_format_hour">%1$su</string>
+    <string name="time_format_hour_minute">%1$su%2$s</string>
+</resources>

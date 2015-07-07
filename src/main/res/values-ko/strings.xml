@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">예</string>
+    <string name="filter_uncategorized">미분류</string>
+    <string name="filter_sports">스포츠</string>
+</resources>
