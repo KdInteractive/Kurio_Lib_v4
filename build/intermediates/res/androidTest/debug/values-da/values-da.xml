@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/lionel/Projects/kurio_lib_v4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-da/values-da.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Naviger hjem"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Naviger op"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Flere muligheder"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Luk"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Se alle"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Vælg en app"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ryd forespørgslen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Søgeforespørgsel"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Søg"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Indsend forespørgslen"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Stemmesøgning"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Del med"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Del med %s"</string>
+    <!-- From: file:/home/lionel/Projects/kurio_lib_v4/build/intermediates/bundles/debug/res/values-da/values-da.xml -->
+    <eat-comment/>
+    <string name="filter_adult">Voksenindhold upassende for børn</string>
+    <string name="filter_business">Økonomi/Erhverv</string>
+    <string name="filter_chat_sms">Chat/SMS/meddelelser/webmail</string>
+    <string name="filter_entertainement">Underholdning og kendte</string>
+    <string name="filter_health">Sundhed</string>
+    <string name="filter_misc">Diverse/andet</string>
+    <string name="filter_online_ads">Onlineannoncer</string>
+    <string name="filter_online_shopping">Onlineshopping</string>
+    <string name="filter_religion">Religion</string>
+    <string name="filter_search_engines">Portal og søgemaskiner</string>
+    <string name="filter_sex_education">Seksualundervisning og graviditet</string>
+    <string name="filter_social_networking">Sociale netværk</string>
+    <string name="filter_sports">Sport</string>
+    <string name="filter_streaming">Onlineindhold og streaming</string>
+    <string name="filter_uncategorized">Uden for kategori</string>
+    <string name="ok">OK</string>
+    <string name="time_format_hour">%1$sh</string>
+    <string name="time_format_hour_minute">%1$sh%2$s</string>
+</resources>

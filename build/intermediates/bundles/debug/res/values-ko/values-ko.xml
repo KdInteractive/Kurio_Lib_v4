@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/lionel/Projects/kurio_lib_v4/src/main/res/values-ko/strings.xml -->
+    <eat-comment/>
+    <string name="filter_sports">스포츠</string>
+    <string name="filter_uncategorized">미분류</string>
+    <string name="ok">예</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/lionel/Projects/kurio_lib_v4/src/main/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="filter_adult">Lapsille sopimaton aikuisille suunnattu sisältö</string>
+    <string name="filter_business">Liike- tai kaupallinen toiminta</string>
+    <string name="filter_chat_sms">Chat / SMS / Pikaviestit / Sähköposti</string>
+    <string name="filter_entertainement">Viihde- ja julkkisuutiset</string>
+    <string name="filter_health">Terveys</string>
+    <string name="filter_misc">Sekalainen / Muu</string>
+    <string name="filter_online_ads">Verkkomainonta</string>
+    <string name="filter_online_shopping">Verkkokaupat</string>
+    <string name="filter_religion">Uskonto</string>
+    <string name="filter_search_engines">Portaalit ja hakukoneet</string>
+    <string name="filter_sex_education">Sukupuolivalistus ja raskaus</string>
+    <string name="filter_social_networking">Sosiaaliset verkostot</string>
+    <string name="filter_sports">Urheilu</string>
+    <string name="filter_streaming">Verkkosisältö ja suoratoisto</string>
+    <string name="filter_uncategorized">Ei luokkaa</string>
+    <string name="ok">OK</string>
+    <string name="time_format_hour">%1$sh</string>
+    <string name="time_format_hour_minute">%1$sh%2$s</string>
+</resources>

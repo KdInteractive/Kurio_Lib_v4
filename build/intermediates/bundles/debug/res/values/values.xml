@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/lionel/Projects/kurio_lib_v4/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="darker_blue">#006d98</color>
+    <color name="disabled_screen">#66333333</color>
+    <color name="grey">#FF95a5a5</color>
+    <color name="kurio_blue">#00a4e4</color>
+    <color name="kurio_orange">#e6ae5d</color>
+    <color name="shadow">#FF222222</color>
+    <color name="shadow_light">#FF333333</color>
+    <declare-styleable name="CircleImageView"><attr format="dimension" name="border_width"/><attr format="color" name="border_color"/><attr format="boolean" name="shadow"/></declare-styleable>
+    <!-- From: file:/home/lionel/Projects/kurio_lib_v4/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="filter_adult">Adult content inappropriate for children</string>
+    <string name="filter_business">Business / Commercial activities</string>
+    <string name="filter_chat_sms">Chat / SMS / Messaging / Webmail</string>
+    <string name="filter_entertainement">Entertainment and celebrity news</string>
+    <string name="filter_health">Health</string>
+    <string name="filter_misc">Miscellaneous / Other</string>
+    <string name="filter_online_ads">Online adverts</string>
+    <string name="filter_online_shopping">Online shopping</string>
+    <string name="filter_religion">Religion</string>
+    <string name="filter_search_engines">Portal and search engines</string>
+    <string name="filter_sex_education">Sex education and pregnancy</string>
+    <string name="filter_social_networking">Social networking</string>
+    <string name="filter_sports">Sports</string>
+    <string name="filter_streaming">Online content and streaming</string>
+    <string name="filter_uncategorized">Uncategorized</string>
+    <string name="ok">OK</string>
+    <string name="time_format_hour">%1$sh</string>
+    <string name="time_format_hour_minute">%1$sh%2$s</string>
+</resources>

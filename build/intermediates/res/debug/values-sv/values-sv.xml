@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/lionel/Projects/kurio_lib_v4/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-sv/values-sv.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Visa startsidan"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigera uppåt"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Fler alternativ"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Klart"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visa alla"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Välj en app"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ta bort frågan"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Sökfråga"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Sök"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Skicka fråga"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Röstsökning"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dela med"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Dela med %s"</string>
+    <!-- From: file:/home/lionel/Projects/kurio_lib_v4/src/main/res/values-sv/strings.xml -->
+    <eat-comment/>
+    <string name="filter_adult">Innehåll för vuxna, olämpligt för barn</string>
+    <string name="filter_business">Företag/Kommersiell verksamhet</string>
+    <string name="filter_chat_sms">Chatt/SMS/Meddelanden/Webbmejl</string>
+    <string name="filter_entertainement">Underhållning och kändisnyheter</string>
+    <string name="filter_health">Hälsa</string>
+    <string name="filter_misc">Blandat/Annat</string>
+    <string name="filter_online_ads">Annonser på nätet</string>
+    <string name="filter_online_shopping">Handla på nätet</string>
+    <string name="filter_religion">Religion</string>
+    <string name="filter_search_engines">Portaler och sökmotorer</string>
+    <string name="filter_sex_education">Sexualupplysning och graviditet</string>
+    <string name="filter_social_networking">Sociala medier</string>
+    <string name="filter_sports">Sport</string>
+    <string name="filter_streaming">Webbinnehåll och direktuppspelning</string>
+    <string name="filter_uncategorized">Utan kategori</string>
+    <string name="ok">OK</string>
+    <string name="time_format_hour">%1$sh</string>
+    <string name="time_format_hour_minute">%1$sh%2$s</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/lionel/Projects/kurio_lib_v4/src/main/res/values-sv/strings.xml -->
+    <eat-comment/>
+    <string name="filter_adult">Innehåll för vuxna, olämpligt för barn</string>
+    <string name="filter_business">Företag/Kommersiell verksamhet</string>
+    <string name="filter_chat_sms">Chatt/SMS/Meddelanden/Webbmejl</string>
+    <string name="filter_entertainement">Underhållning och kändisnyheter</string>
+    <string name="filter_health">Hälsa</string>
+    <string name="filter_misc">Blandat/Annat</string>
+    <string name="filter_online_ads">Annonser på nätet</string>
+    <string name="filter_online_shopping">Handla på nätet</string>
+    <string name="filter_religion">Religion</string>
+    <string name="filter_search_engines">Portaler och sökmotorer</string>
+    <string name="filter_sex_education">Sexualupplysning och graviditet</string>
+    <string name="filter_social_networking">Sociala medier</string>
+    <string name="filter_sports">Sport</string>
+    <string name="filter_streaming">Webbinnehåll och direktuppspelning</string>
+    <string name="filter_uncategorized">Utan kategori</string>
+    <string name="ok">OK</string>
+    <string name="time_format_hour">%1$sh</string>
+    <string name="time_format_hour_minute">%1$sh%2$s</string>
+</resources>
